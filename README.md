@@ -1,4 +1,4 @@
-# Leaderboard
+# Leaderboard - by Aravind Srinivasan
 Stage -1 :
 This contains a basic html file which shows the structure of the login page
 Stage -2 :
